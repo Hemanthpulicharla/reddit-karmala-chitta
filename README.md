@@ -1,6 +1,6 @@
 # Reddit Karmala Chitta
 
-From Reddit Chitragupta (u/Friendly_wind)
+From Reddit Chitragupta 
 
 An archive-powered Reddit user intelligence tool. It queries **Arctic Shift**, **PullPush**, and the **live Reddit API** in parallel — deduplicated, sorted, and visualized. This tool allows you to search for a user's activity, optionally filtered by subreddit, and view post and comment content directly within the application with "Load More" functionality for extensive results.
 
@@ -8,7 +8,7 @@ An archive-powered Reddit user intelligence tool. It queries **Arctic Shift**, *
 ## Setup
 
 ```bash
-git clone <your-repo>
+git clone https://github.com/Hemanthpulicharla/reddit-karmala-chitta/
 cd redditosint/redditosint # Navigate to the correct directory
 npm install --legacy-peer-deps
 npm run dev
