@@ -8,7 +8,7 @@ An archive-powered Reddit user intelligence tool. It queries **Arctic Shift**, *
 ## Setup
 
 ```bash
-git clone https://github.com/Hemanthpulicharla/reddit-karmala-chitta/
+git clone https://github.com/Hemanthpulicharla/reddit-karmala-chitta.git
 cd redditosint/redditosint # Navigate to the correct directory
 npm install --legacy-peer-deps
 npm run dev
